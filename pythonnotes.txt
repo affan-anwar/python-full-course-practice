@@ -1,0 +1,11 @@
+1. Python
+2. Pylance
+3. Python Debugger
+
+Run Python File:
+python program.py
+py program.py
+
+Use \n to print text on a different line inside one print statement.
+end=" " Stops Python from going to next line and adds space
+end=" - " Stops new line and adds -
